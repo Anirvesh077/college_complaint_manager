@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # College Complaint Manager
 
 A friendly, local-first Python app for registering campus complaints, tracking progress, searching records, and producing reports. It is designed around the GreenFuture Hack Project #23 brief.
@@ -137,3 +138,6 @@ college_complaint_manager/
 ```
 
 Have a great demo!
+=======
+# college_complaint_manager
+>>>>>>> 66e3b2c7d9f487d4ac0720eecf7f5a04733b997c
